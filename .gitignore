@@ -1,0 +1,59 @@
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Java build output
+bin/
+out/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Gradle
+.gradle/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+build/
+target/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+bin/
+*.class
